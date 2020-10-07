@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/fws_ebragas/repos/vortex/master_integrations/master-destination-integration-service/creds'
+let g:netrw_dirhist_2='/Users/fws_ebragas/repos/vortex/master_integrations/master-destination-integration-service'
+let g:netrw_dirhist_3='/Users/fws_ebragas/repos/vortex/master_integrations'
+let g:netrw_dirhist_4='/Users/fws_ebragas/repos/vortex'
+let g:netrw_dirhist_5='/Users/fws_ebragas/.vim'
+let g:netrw_dirhist_6='/Users/fws_ebragas/.vim/after'
+let g:netrw_dirhist_7='/Users/fws_ebragas/.vim/after/ftplugin'
+let g:netrw_dirhist_8='/Users/fws_ebragas/dev/flywheel/hackathon-dbt/clients/brs/profiles'
+let g:netrw_dirhist_9='/Users/fws_ebragas/dev/flywheel/hackathon-dbt/clients/vortex/profiles'
